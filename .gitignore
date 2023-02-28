@@ -1,0 +1,7 @@
+/.idea/*
+/__pycache__/conftest.cpython-38-pytest-7.2.1.pyc
+/__pycache__/dashboard.cpython-38.pyc
+/__pycache__/login.cpython-38.pyc
+/__pycache__/models.cpython-38.pyc
+/tests/__pycache__/fixtures.cpython-38-pytest-7.2.1.pyc
+/tests/__pycache__/test_xyte_dashboard_model.cpython-38-pytest-7.2.1.pyc
