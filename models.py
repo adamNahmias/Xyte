@@ -29,7 +29,7 @@ class Models:
         return WebDriverWait(driver=self.driver, timeout=10).until(
             lambda x: x.find_element(by=By.LINK_TEXT, value=name))
 
-    def main_model_btn(self) ->WebElement:
+    def main_model_btn(self) -> WebElement:
         return WebDriverWait(driver=self.driver, timeout=10).until(
             lambda x: x.find_element(by=By.LINK_TEXT, value='Models'))
 
